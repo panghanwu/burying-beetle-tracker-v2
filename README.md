@@ -75,8 +75,9 @@ out-dir
   - `Crop 4x3`
   - `Width`: width of frame
   - `Height`: height of frame
+  - `Length`: total frames
   - `FPS` 
-- `Tracks`
+- `Tracks`: tracks in List
   - `Label IDs`
   - `Labels`
   - `Boxes`: coordinates in (left, top, right, bottom)
